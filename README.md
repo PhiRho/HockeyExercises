@@ -1,4 +1,4 @@
-#Hockey Exercises
+# Hockey Exercises
 ## What?
 A Python project, using Python3.12 and FastAPI, which will maintain a bunch of
 media and exercises for use by individual hockey players at home. These will be
