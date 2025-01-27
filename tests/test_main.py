@@ -1,5 +1,5 @@
-import hockey_exercise.main
+import hockey_exercise.main as Main
 import pytest
 
 def test_read_root():
-    assert read_root() == {"Hello": "World"}
+    assert Main.read_root() == {"Hello": "World"}
